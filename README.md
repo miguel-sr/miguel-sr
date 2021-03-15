@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MiguelSR17
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning CSS
-- 📫 How to reach me
+- 📫 How to reach me <br>
   e-mail: miguels1h4@gmail.com
 
 <!---
