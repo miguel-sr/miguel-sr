@@ -6,7 +6,7 @@
     <li>📫 How to reach me <br>
       <ul>
         <li>
-          <a href="mailto:miguels1h4@gmail.com">
+          <a href="mailto:miguels1h4@gmail.com"> <br>
             miguels1h4@gmail.com
           </a>
         </li>
