@@ -4,7 +4,9 @@
   <li>🌱 I’m currently learning CSS</li>
   <li>📫 How to reach me <br>
     <ul>
-      <li>miguels1h4@gmail.com</li>
+      <li>
+        <a href="mailto:miguels1h4@gmail.com">miguels1h4@gmail.com</a><
+      /li>
     </ul>
   </li>
 </ul>
