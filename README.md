@@ -1,4 +1,4 @@
-<h2>
+<h3>
   <ul>
     <li>👋 Hi, I’m @MiguelSR17</li>
     <li>👀 I’m interested in web development</li>
@@ -13,7 +13,7 @@
       </ul>
     </li>
   </ul>
-</h2>
+</h3>
 
 <!---
 MiguelSR17/MiguelSR17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
