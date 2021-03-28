@@ -4,13 +4,9 @@
     <li>👀 I’m interested in web development</li>
     <li>🌱 I’m currently learning CSS3</li>
     <li>📫 How to reach me <br>
-      <ul>
-        <li>
-          <a href="mailto:miguels1h4@gmail.com"> <br>
-            miguels1h4@gmail.com
-          </a>
-        </li>
-      </ul>
+      <a href="mailto:miguels1h4@gmail.com">
+        miguels1h4@gmail.com
+      </a>
     </li>
   </ul>
 </h3>
