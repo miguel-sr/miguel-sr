@@ -1,3 +1,6 @@
+<style>
+  color: red;
+</style>
 <ul>
   <li>👋 Hi, I’m @MiguelSR17</li>
   <li>👀 I’m interested in web development</li>
