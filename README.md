@@ -1,11 +1,11 @@
 <ul>
   <li>👋 Hi, I’m @MiguelSR17</li>
   <li>👀 I’m interested in web development</li>
-  <li>🌱 I’m currently learning CSS</li>
+  <li>🌱 I’m currently learning CSS3</li>
   <li>📫 How to reach me <br>
     <ul>
       <li>
-        <a href="mailto:miguels1h4@gmail.com" style="text-decoration: none;">
+        <a href="mailto:miguels1h4@gmail.com">
           miguels1h4@gmail.com
         </a>
       </li>
