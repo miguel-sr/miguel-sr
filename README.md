@@ -1,6 +1,6 @@
 ### Oi! Sou o Miguel 👋
-  <div style="display: inline_block"><br>
-  <p style="padding: 30px">❤ Desenvolvimento web</p>
+  <div style="display: inline_block">
+  <p style="padding: 10px">❤ Desenvolvimento web</p>
   🌱 Atualmente estou estudando:
     <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
