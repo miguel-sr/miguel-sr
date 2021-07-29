@@ -10,9 +10,13 @@
   ##
 
   <div>
-    <a href="https://github.com/rafaballerini">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MiguelSR17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img style="padding-left: 200px" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSR17&layout=compact&langs_count=7&theme=dark"/>
+    <a href="https://github.com/MiguelSR17">
+      <div>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MiguelSR17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      </div>
+      <div style="margin-left: 200px">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSR17&layout=compact&langs_count=7&theme=dark"/>
+      </div>
   </div>
   
 <!---
