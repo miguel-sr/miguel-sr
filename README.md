@@ -12,7 +12,7 @@
   <div>
     <a href="https://github.com/rafaballerini">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MiguelSR17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img style="margin-left: 200px;" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSR17&layout=compact&langs_count=7&theme=dark"/>
+    <img style="margin-left: 200px" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSR17&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
 <!---
