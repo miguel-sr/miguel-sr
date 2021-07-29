@@ -1,5 +1,4 @@
 ### Oi! Sou o Miguel 👋
-
   <div style="display: inline_block"><br>
   👀 Estou interessado em desenvolvimento web <br>
   🌱 Atualmente estou estudando:
