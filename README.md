@@ -1,7 +1,7 @@
 ### Oi! Sou o Miguel 👋
   <div style="display: inline_block">
   <span>Desenvolvimento Web ❤</span>
-  <span>| 🌱 Atualmente estou estudando:</span>
+  <span>| 🌱 Atualmente estudando:</span>
     <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
