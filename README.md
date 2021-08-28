@@ -10,8 +10,6 @@
     <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
   <br>
-  <img align="right" alt="gif" src="https://user-images.githubusercontent.com/80494880/131232836-aa06d8cf-1fdd-4486-84fd-a7cdc6837589.gif">
-  <br>
   <div>
     <span>🌱 Atualmente estudando:</span>
     <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
