@@ -19,8 +19,6 @@
 <br>
 <br>
 <hr>
-<br>
-<br>
 
 <div>
   <a href="https://github.com/miguel-sr">
