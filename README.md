@@ -1,6 +1,6 @@
 ## Oi! Sou o Miguel 👋
 <div style="display: inline_block; font-size: 20px;">
-  ### Desenvolvimento Web ❤
+  <h3>Desenvolvimento Web ❤</h3>
   <hr>
   <div>
     <span>📚 Conhecimento em: </span>
