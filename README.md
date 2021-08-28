@@ -1,4 +1,4 @@
-### Oi! Sou o Miguel 👋
+## Oi! Sou o Miguel 👋
 <div style="display: inline_block; font-size: 5em ;">
   <span>Desenvolvimento Web ❤</span> 
   <span>| Conhecimento em: </span>
