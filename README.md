@@ -16,7 +16,7 @@
   </div>
 </div>
 
-<br><hr><br>
+<br><hr>
 
 <div>
   <a href="https://github.com/miguel-sr">
