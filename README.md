@@ -1,8 +1,8 @@
 ## Oi! Sou o Miguel 👋
 <div style="display: inline_block; font-size: 20px;">
   <span>Desenvolvimento Web ❤</span> 
-  <div>
-    <span>| Conhecimento em: </span>
+  <div style="border: 1px solid red;">
+    <span>Conhecimento em: </span>
     <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
