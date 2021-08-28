@@ -16,8 +16,6 @@
   </div>
 </div>
 
-<br>
-<br>
 <hr>
 
 <div>
