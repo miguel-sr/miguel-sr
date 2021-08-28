@@ -3,7 +3,7 @@
   <h3>Desenvolvimento Web ❤ | Futuro Engenheiro de Software 💻</h3>
   
   <hr>
-  
+  <img align="right" alt="gif" src="https://user-images.githubusercontent.com/80494880/131232836-aa06d8cf-1fdd-4486-84fd-a7cdc6837589.gif">
   <div>
     <span>📚 Conhecimento em: </span>
     <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
