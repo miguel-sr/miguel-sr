@@ -10,7 +10,7 @@
     <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
   <br>
-<iframe src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://giphy.com/gifs/vzO0Vc8b2VBLi?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fgithub.com%2Fmiguel-sr%2Fmiguel-sr%2Fblob%2Fmain%2FREADME.md">
   <br>
   <div>
     <span>🌱 Atualmente estudando:</span>
