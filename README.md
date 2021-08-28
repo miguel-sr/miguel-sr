@@ -1,6 +1,6 @@
 ## Oi! Sou o Miguel 👋
 <div style="display: inline-block;">
-  <img align="right" alt="gif" src="https://user-images.githubusercontent.com/80494880/131232836-aa06d8cf-1fdd-4486-84fd-a7cdc6837589.gif">
+  <img align="right" width="320" alt="gif" src="https://user-images.githubusercontent.com/80494880/131232836-aa06d8cf-1fdd-4486-84fd-a7cdc6837589.gif">
   <h3>Desenvolvimento Web ❤ | Futuro Engenheiro de Software 💻</h3>
   <hr>
   <div>
@@ -10,7 +10,7 @@
   </div>
   <br>
   <div>
-    <h4>🌱 Atualmente estudando:</h4>
+    <span>🌱 Atualmente estudando:</span>
     <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Miguel-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   </div>
