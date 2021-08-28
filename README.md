@@ -15,9 +15,9 @@
     <img align="center" alt="Miguel-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   </div>
 </div>
-  
+  <br>
 <hr>
-
+<br>
 <div>
   <a href="https://github.com/miguel-sr">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=miguel-sr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
