@@ -10,6 +10,8 @@
     <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
   <br>
+  <div><iframe src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a   href="https://giphy.com/gifs/vzO0Vc8b2VBLi">via GIPHY</a></p></div>
+  <br>
   <div>
     <span>🌱 Atualmente estudando:</span>
     <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
