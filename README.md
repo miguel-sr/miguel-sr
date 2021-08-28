@@ -1,6 +1,6 @@
 ## Oi! Sou o Miguel 👋
 <div style="display: inline_block; font-size: 20px;">
-  <img align="right" alt="gif" width="" src="https://user-images.githubusercontent.com/80494880/131232836-aa06d8cf-1fdd-4486-84fd-a7cdc6837589.gif">
+  <img align="right" alt="gif" width="300" src="https://user-images.githubusercontent.com/80494880/131232836-aa06d8cf-1fdd-4486-84fd-a7cdc6837589.gif">
   <h3>Desenvolvimento Web ❤ | Futuro Engenheiro de Software 💻</h3>
   <hr>
   <div>
