@@ -1,4 +1,5 @@
 ### Oi! Sou o Miguel 👋
+<br> 
 <div style="display: inline_block">
   <div>Desenvolvimento Web ❤</div> <br> 
   <span>Conhecimento em: </span>
