@@ -1,10 +1,10 @@
 ## Oi! Sou o Miguel 👋
-<div style="display: inline-block; font-size=16px !important;">
+<div style="display: inline-block;">
   <img align="right" width="280" alt="gif" src="https://user-images.githubusercontent.com/80494880/131232836-aa06d8cf-1fdd-4486-84fd-a7cdc6837589.gif">
   <h3>Desenvolvimento Web ❤ | Futuro Engenheiro de Software 💻</h3>
   <hr>
   <div>
-    <span>📚 Conhecimento em: </span>
+    <span font-size="16px !important">📚 Conhecimento em: </span>
     <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
