@@ -12,6 +12,7 @@
     <h3>🌱 Atualmente estudando:</h3>
     &nbsp; &nbsp; &nbsp;
     ◻ <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    ◻ <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
 <hr><br>
