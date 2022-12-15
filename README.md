@@ -12,7 +12,9 @@
   <br>
     <h3>🌱 Atualmente estudando:</h3>
     &nbsp; &nbsp; &nbsp;
+  
     ◻ <img align="center" alt="Miguel-nodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Miguel-mongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="Miguel-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-     original.svg">
 </div>
 <hr><br>
