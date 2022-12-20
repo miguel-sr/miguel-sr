@@ -17,3 +17,5 @@
     <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 <hr><br>
+
+![Snake animation](https://github.com/miguel-sr/miguel-sr/blob/output/github-contribution-grid-snake.svg)
