@@ -15,8 +15,7 @@
   </a>
 </p>
 <h3>💻 Desenvolvimento Web</h3>
-  
-  - 🙋‍♂️ Um rapaz apaixonado por tecnologia.
+<h4>🙋‍♂️ Um rapaz apaixonado por tecnologia.</h4>
 
 ### 🚀 Minhas skills são:
 <div display="flex">
