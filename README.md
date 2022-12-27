@@ -1,11 +1,22 @@
 <h1 align="center">👋 Olá, eu sou o Miguel! Seja bem-vindo!</h1>
 <div style="display: inline-block;">
   <img align="right" width="380" src="https://user-images.githubusercontent.com/80494880/131232836-aa06d8cf-1fdd-4486-84fd-a7cdc6837589.gif">
-  ## 💻 Desenvolvimento Web
+  <p>
+    <a href="https://www.linkedin.com/in/miguel-s-ramos">
+      <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+    </a>
+    <a href="https://api.whatsapp.com/qr/6OZPAS6DM4EJN1?autoload=1&app_absent=0">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" >
+    </a>
+    <a href="mailto:miguelsramos458@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
+    </a>
+  </p>
+  <h3>💻 Desenvolvimento Web</h3>
   
   - 🙋‍♂️ Um rapaz apaixonado por tecnologia.
 
-  <h3> 🚀 Atualmente minhas skills são: </h3>
+  <h3>🚀 Atualmente minhas skills são: </h3>
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
