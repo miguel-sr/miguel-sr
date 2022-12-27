@@ -1,13 +1,13 @@
 <h1 align="center">👋 Olá, eu sou o Miguel! Seja bem-vindo!</h1>
 <div style="display: inline-block;">
-  <img align="right" width="380" alt="gif" src="https://user-images.githubusercontent.com/80494880/131232836-aa06d8cf-1fdd-4486-84fd-a7cdc6837589.gif">
+  <img align="right" width="380" src="https://user-images.githubusercontent.com/80494880/131232836-aa06d8cf-1fdd-4486-84fd-a7cdc6837589.gif">
   <h3>💻 Desenvolvimento Web</h3>
   
   - 🙋‍♂️ Um rapaz apaixonado por tecnologia.
 
   - 🚀 No momento estou me especializando em Front-end, mas tenho como objetivo me tornar Full-Stack onde para isso venho estudando diariamente.
-  <span><h3>🚀 Atualmente minhas skills são: </h3></span>
-  <span><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></span>
+  <h3 display="inline">🚀 Atualmente minhas skills são: </h3>
+    <img align="center" display="inline" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
