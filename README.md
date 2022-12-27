@@ -6,8 +6,8 @@
   - 🙋‍♂️ Um rapaz apaixonado por tecnologia.
 
   - 🚀 No momento estou me especializando em Front-end, mas tenho como objetivo me tornar Full-Stack onde para isso venho estudando diariamente.
-    <h3>🚀 Atualmente minhas skills são: </h3>
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <span><h3>🚀 Atualmente minhas skills são: </h3></span>
+  <span><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></span>
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
