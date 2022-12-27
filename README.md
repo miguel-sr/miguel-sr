@@ -33,7 +33,7 @@
 </div><hr><br>
 
 <div align="center">
-  <h3>📌 Stats:</h1>
+  <h3>📌 My Github Stats:</h1>
   <img height="182" src="https://github-readme-stats.vercel.app/api?username=miguel-sr&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="182" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-sr&layout=compact&langs_count=7&theme=monokai"/>
 </div>
