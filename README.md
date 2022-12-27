@@ -34,7 +34,7 @@
 
 <div align="center">
   <h3>📌 My Github Stats:</h3>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=miguel-sr&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&hide=contribs,prs"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=miguel-sr&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&hide=contribs,prs&bg_color=90,034c8c,1672d2"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-sr&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
