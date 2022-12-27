@@ -15,7 +15,7 @@
   </a>
 </p>
 
-### Desenvolvedor Full-Stack - Um rapaz apaixonado por tecnologia.
+### Desenvolvedor Full-Stack - Apaixonado por tecnologia.
 
 ### 🚀 Minhas skills são:
 <div display="flex">
