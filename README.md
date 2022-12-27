@@ -5,7 +5,10 @@
     <a href="https://www.linkedin.com/in/miguel-s-ramos">
       <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
     </a>
-    <a href="https://api.whatsapp.com/qr/6OZPAS6DM4EJN1?autoload=1&app_absent=0">
+    <a href="#">
+      <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white">
+    </a>
+    <a href="#">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" >
     </a>
     <a href="mailto:miguelsramos458@gmail.com">
