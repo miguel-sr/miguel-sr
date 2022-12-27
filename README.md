@@ -1,5 +1,4 @@
-### 👋 Olá, eu sou o Miguel! Seja bem-vindo!
-<hr>
+<h1 align="center">👋 Olá, eu sou o Miguel! Seja bem-vindo!</h1>
 <img align="right" width="380" src="https://user-images.githubusercontent.com/80494880/131232836-aa06d8cf-1fdd-4486-84fd-a7cdc6837589.gif">
 <p>
   <a href="https://www.linkedin.com/in/miguel-s-ramos">
