@@ -1,21 +1,20 @@
-<h1 align="center">👋 Olá, eu sou o Miguel! Seja bem-vindo!</h1>
-<div style="display: inline-block;">
-  <img align="right" width="380" src="https://user-images.githubusercontent.com/80494880/131232836-aa06d8cf-1fdd-4486-84fd-a7cdc6837589.gif">
-  <p>
-    <a href="https://www.linkedin.com/in/miguel-s-ramos">
-      <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" >
-    </a>
-    <a href="mailto:miguelsramos458@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
-    </a>
-  </p>
-  <h3>💻 Desenvolvimento Web</h3>
+# 👋 Olá, eu sou o Miguel! Seja bem-vindo!
+<img align="right" width="380" src="https://user-images.githubusercontent.com/80494880/131232836-aa06d8cf-1fdd-4486-84fd-a7cdc6837589.gif">
+<p>
+  <a href="https://www.linkedin.com/in/miguel-s-ramos">
+    <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" >
+  </a>
+  <a href="mailto:miguelsramos458@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
+  </a>
+</p>
+<h3>💻 Desenvolvimento Web</h3>
   
   - 🙋‍♂️ Um rapaz apaixonado por tecnologia.
 
@@ -30,7 +29,6 @@
     ◻ <img align="center" alt="Miguel-nodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Miguel-mongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</div>
 <hr><br>
 
 <div align="center">
