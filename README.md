@@ -35,7 +35,7 @@
 <div align="center">
   <h3>📌 My Github Stats:</h3>
   <img height="182" src="https://github-readme-stats.vercel.app/api?username=miguel-sr&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&bg_color=0,010a13,00182d&title_color=fff&icon_color=00acff"/>
-  <img height="182" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-sr&layout=compact&langs_count=6&theme=monokai&bg_color=0,00182d,010a13&title_color=fff&icon_color=00acff"/>
+  <img height="182" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-sr&layout=compact&langs_count=6&theme=monokai&bg_color=0,00182d,010a13&title_color=fff&icon_color=00acff&hide=HTML"/>
 </div>
 
 ![Snake animation](https://github.com/miguel-sr/miguel-sr/blob/output/github-contribution-grid-snake.svg)
