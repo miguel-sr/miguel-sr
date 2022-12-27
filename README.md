@@ -35,6 +35,6 @@
 <div>
   <img align="left" height="182" src="https://github-readme-stats.vercel.app/api?username=miguel-sr&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img align="right" height="182" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-sr&layout=compact&langs_count=7&theme=monokai"/>
-</div><hr>
+</div><br><hr>
 
 ![Snake animation](https://github.com/miguel-sr/miguel-sr/blob/output/github-contribution-grid-snake.svg)
