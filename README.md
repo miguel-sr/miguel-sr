@@ -36,4 +36,4 @@
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-sr&layout=compact&langs_count=6&theme=monokai&bg_color=0,00182d,010a13&title_color=fff&icon_color=00acff&hide=JAVA,JAVASCRIPT,HANDLEBARS"/>
 </div>
 
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
