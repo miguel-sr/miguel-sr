@@ -12,7 +12,7 @@
   </a>
 </p>
 
-### Desenvolvedor Full-Stack - Apaixonado por tecnologia.
+### Desenvolvedor Full-Stack
 
 ### 🚀 Minhas *skills* são:
 <div display="flex">
