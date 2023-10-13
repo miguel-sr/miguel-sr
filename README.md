@@ -27,8 +27,8 @@
 <!-- ### 🌱 Atualmente estou *aprendendo* sobre:
 <div display="flex">
    
-</div><hr>-->
-
+</div>--> 
+<hr>
 <div align="center">
   <h3>📌 My life on Github:</h3>
   <img height="140" src="https://gh-readme-stats-miguel-sr.vercel.app/api?username=miguel-sr&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&bg_color=0,010a13,00182d&title_color=fff&icon_color=00acff&hide=contribs,prs"/>
